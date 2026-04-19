@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **8cr8rs/8cr8rs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
